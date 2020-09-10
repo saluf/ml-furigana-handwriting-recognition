@@ -1,6 +1,8 @@
 # Frurigana Handwriting Recognition
 A convolutional neural network (CNN) based model is built to classify japanese characters, i.e. Furigana. Furigana consists of Hiragana (Hi.) for normal use , and Katakana (Ka.) for foreign words or enphasis purpose. The model is trained to run Android on-device hand-written input classification powered by TensorFlow lite.
 
+![read me image](image/readme_image.png)
+
 ### The work includes:
 - extremely simple image noise clean and signal enhancement
 - augmentation generates variation of original sample to increase field accurary
